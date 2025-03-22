@@ -1,0 +1,191 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  background: var(--token-FLc3Q0URvh0f);
+  box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.2);
+  position: relative;
+  min-width: 0;
+  border-radius: 6px;
+  padding: 8px;
+}
+.text__kcyAb {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  font-size: 36px;
+  margin-bottom: 12px;
+  font-family: "Playfair Display SC", serif;
+  color: var(--token-PD8ia5WAW_VH);
+  text-align: center;
+  font-weight: 400;
+  margin-top: 6px;
+  min-width: 0;
+}
+.privatesForm2:global(.__wab_instance) {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  justify-content: flex-end;
+  align-items: center;
+  object-fit: cover;
+  color: var(--token-PD8ia5WAW_VH);
+  background: none;
+  font-family: "Playfair Display", serif;
+  box-shadow: none;
+  min-width: 0;
+  border-radius: 6px;
+  padding: 8px;
+}
+.firstName:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  background: var(--token-FLc3Q0URvh0f);
+  min-width: 0;
+}
+.text__itLTk {
+  font-weight: 500;
+  color: var(--token-uzbJwh0c2RIc);
+  font-family: "Playfair Display", serif;
+}
+.firstNameInput:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  background: var(--token-QZ9BjK-EaOkt);
+}
+.lastName:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  min-width: 0;
+}
+.text__qk4WL {
+  color: var(--token-uzbJwh0c2RIc);
+  font-weight: 500;
+  font-family: "Playfair Display", serif;
+}
+.lastNameInput:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  background: var(--token-QZ9BjK-EaOkt);
+}
+.phone:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  min-width: 0;
+}
+.text___2KBUx {
+  color: var(--token-uzbJwh0c2RIc);
+  font-weight: 500;
+  font-family: "Playfair Display", serif;
+}
+.phoneInput:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  background: var(--token-QZ9BjK-EaOkt);
+}
+.email:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  min-width: 0;
+}
+.text__g1CbC {
+  color: var(--token-uzbJwh0c2RIc);
+  font-weight: 500;
+  font-family: "Playfair Display", serif;
+}
+.emailInput:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  background: var(--token-QZ9BjK-EaOkt);
+}
+.interestedIn:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  max-width: 100%;
+  object-fit: cover;
+  min-width: 0;
+}
+.interestedInSelect:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  background: var(--token-QZ9BjK-EaOkt);
+}
+.text__zSnAi {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  color: var(--token-uzbJwh0c2RIc);
+  font-weight: 500;
+  font-family: "Playfair Display", serif;
+  min-width: 0;
+}
+.expectedGuests:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  min-width: 0;
+}
+.text__tHpu {
+  color: var(--token-uzbJwh0c2RIc);
+  font-weight: 500;
+  font-family: "Playfair Display", serif;
+}
+.expectedGuestsInput:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  background: var(--token-QZ9BjK-EaOkt);
+}
+.comments:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  background: #ffffff00;
+  min-width: 0;
+}
+.text__sfYeF {
+  color: var(--token-uzbJwh0c2RIc);
+  font-weight: 500;
+  font-family: "Playfair Display", serif;
+}
+.commentsInput:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  background: var(--token-QZ9BjK-EaOkt);
+}
+.formField__kNvMq:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  min-width: 0;
+}
+.numberInput2:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+}
+.formField__zoqRi:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  min-width: 0;
+}
+.input5:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+}
+.button:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  background: var(--token-PD8ia5WAW_VH);
+  margin-bottom: 12px;
+}
+.text___1Za7I {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
